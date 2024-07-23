@@ -1,0 +1,2 @@
+# oraclequickstart
+sqlinstall
